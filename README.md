@@ -51,6 +51,8 @@ you can code as  "this.xxx.bind()" or "()=>this.xxx()" but not "this.xxx()"
 ```
 
 ## keyword
-...
+```
+
 "react","selector","mobile"
-...
+
+```
