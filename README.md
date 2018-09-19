@@ -17,6 +17,7 @@ import Selector from 'jk-react-selector';
       { key: 1, name: '事假' },
       ...
       ]
+      //'key' and 'name' are neccessary properties
     const title = "请选择xxx"
 //return:
     <Selector
